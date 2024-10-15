@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104855549115",
+    "project_id": "multistore-store-intec",
+    "storage_bucket": "multistore-store-intec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104855549115:android:991cf5fc2557dddff0659e",
+        "android_client_info": {
+          "package_name": "com.pb1.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ_Dgkp4W58hs9myeHwGcqoc5eK9TCJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104855549115:android:9ccf4daa9d689d0ff0659e",
+        "android_client_info": {
+          "package_name": "com.pb1.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ_Dgkp4W58hs9myeHwGcqoc5eK9TCJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
